@@ -1,0 +1,147 @@
+
+/* Class = "UILabel"; text = "Contact With Author"; ObjectID = "1EH-71-hkP"; */
+"1EH-71-hkP.text" = "联系作者";
+
+/* Class = "UITableViewSection"; headerTitle = "JOURNAL"; ObjectID = "1to-nk-BU4"; */
+"1to-nk-BU4.headerTitle" = "文字记录";
+
+/* Class = "UITabBarItem"; title = "Locations"; ObjectID = "2ci-qG-BKL"; */
+"2ci-qG-BKL.title" = "出行记";
+
+/* Class = "UINavigationItem"; title = "CategoryPicker"; ObjectID = "49Y-Uh-oox"; */
+"49Y-Uh-oox.title" = "分类选择";
+
+/* Class = "UILabel"; text = "Rate & Review"; ObjectID = "65r-ER-Ghn"; */
+"65r-ER-Ghn.text" = "打分 & 评价";
+
+/* Class = "UITabBarItem"; title = "MoreInfo"; ObjectID = "Cdf-0L-sU0"; */
+"Cdf-0L-sU0.title" = "关于";
+
+/* Class = "UILabel"; text = "Longitude"; ObjectID = "Efe-Jr-2UW"; */
+"Efe-Jr-2UW.text" = "经度";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "FWL-jQ-r19"; */
+"FWL-jQ-r19.text" = "明细";
+
+/* Class = "UILabel"; text = "Longitude"; ObjectID = "JzC-JK-yrf"; */
+"JzC-JK-yrf.text" = "经度";
+
+/* Class = "UILabel"; text = "About MomentsLocation"; ObjectID = "LMh-ZC-Sx5"; */
+"LMh-ZC-Sx5.text" = "关于《丁丁出行记》";
+
+/* Class = "UIButton"; normalTitle = "Tag Location"; ObjectID = "LW0-at-SNi"; */
+"LW0-at-SNi.normalTitle" = "记录位置";
+
+/* Class = "UILabel"; text = "Recomend the APP"; ObjectID = "LbA-7Q-ddG"; */
+"LbA-7Q-ddG.text" = "跟朋友分享此程序";
+
+/* Class = "UILabel"; text = "How To Use The App?"; ObjectID = "LpX-tc-hgO"; */
+"LpX-tc-hgO.text" = "程序使用说明";
+
+/* Class = "UILabel"; text = "Latitude goes here"; ObjectID = "M23-FA-l4E"; */
+"M23-FA-l4E.text" = "显示纬度信息";
+
+/* Class = "UILabel"; text = "Longitude goes here"; ObjectID = "MOq-7h-TAE"; */
+"MOq-7h-TAE.text" = "显示经度信息";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "MQE-df-oI5"; */
+"MQE-df-oI5.text" = "明细";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "SAP-1x-WIW"; */
+"SAP-1x-WIW.text" = "日期";
+
+/* Class = "UILabel"; text = "About Author"; ObjectID = "TFr-Yr-Zif"; */
+"TFr-Yr-Zif.text" = "关于作者";
+
+/* Class = "UILabel"; text = "Add Photo"; ObjectID = "VRh-FA-aZl"; */
+"VRh-FA-aZl.text" = "添加照片";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "Vx4-lS-5gQ"; */
+"Vx4-lS-5gQ.text" = "分类";
+
+/* Class = "UILabel"; text = "Message label"; ObjectID = "Xos-1m-sLc"; */
+"Xos-1m-sLc.text" = "查询结果";
+
+/* Class = "UITableViewSection"; headerTitle = "About Author"; ObjectID = "YVP-nz-iLq"; */
+"YVP-nz-iLq.headerTitle" = "关于作者";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "YWO-aG-72x"; */
+"YWO-aG-72x.text" = "明细";
+
+/* Class = "UILabel"; text = "Longitude"; ObjectID = "Z68-5j-9ID"; */
+"Z68-5j-9ID.text" = "经度";
+
+/* Class = "UITableViewSection"; headerTitle = "Support Author"; ObjectID = "ZrS-oj-Aa2"; */
+"ZrS-oj-Aa2.headerTitle" = "支持作者";
+
+/* Class = "UITabBarItem"; title = "Tag"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "记录";
+
+/* Class = "UINavigationItem"; title = "Location Image"; ObjectID = "cUL-gz-QgM"; */
+"cUL-gz-QgM.title" = "出行美图";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "dm0-SZ-2bb"; */
+"dm0-SZ-2bb.title" = "地图";
+
+/* Class = "UINavigationItem"; title = "About Author"; ObjectID = "g2S-Uo-s6q"; */
+"g2S-Uo-s6q.title" = "关于作者";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "ghe-rM-dPe"; */
+"ghe-rM-dPe.text" = "地址";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "k1Z-kN-xGa"; */
+"k1Z-kN-xGa.text" = "明细";
+
+/* Class = "UILabel"; text = "作者是一个怪物"; ObjectID = "l4v-Xa-3BN"; */
+"l4v-Xa-3BN.text" = "作者是一个怪物";
+
+/* Class = "UILabel"; text = "Latitude"; ObjectID = "lmj-Yb-lGo"; */
+"lmj-Yb-lGo.text" = "纬度";
+
+/* Class = "UILabel"; text = "Latitude"; ObjectID = "oMV-tI-zct"; */
+"oMV-tI-zct.text" = "纬度";
+
+/* Class = "UINavigationItem"; title = "Locations"; ObjectID = "oQY-Df-nfz"; */
+"oQY-Df-nfz.title" = "出行记录";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "oWD-px-6lb"; */
+"oWD-px-6lb.text" = "记录";
+
+/* Class = "UILabel"; text = "Feedback & Support"; ObjectID = "rPj-W9-F59"; */
+"rPj-W9-F59.text" = "反馈 & 支持";
+
+/* Class = "UITextView"; text = "Apple HQ"; ObjectID = "sOo-WL-3NX"; */
+"sOo-WL-3NX.text" = "输入内容";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "seQ-8t-CMu"; */
+"seQ-8t-CMu.text" = "标题";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "tSk-h0-D60"; */
+"tSk-h0-D60.text" = "日期";
+
+/* Class = "UIButton"; normalTitle = "Get My Location"; ObjectID = "u4A-gh-oc3"; */
+"u4A-gh-oc3.normalTitle" = "获取当前位置";
+
+/* Class = "UINavigationItem"; title = "More Info"; ObjectID = "vNo-1m-nhj"; */
+"vNo-1m-nhj.title" = "更多信息";
+
+/* Class = "UILabel"; text = "Latitude"; ObjectID = "wdA-5Z-5Pv"; */
+"wdA-5Z-5Pv.text" = "纬度";
+
+/* Class = "UILabel"; text = "Support Me"; ObjectID = "xFf-CT-SYS"; */
+"xFf-CT-SYS.text" = "支持作者";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "y8U-oJ-cZe"; */
+"y8U-oJ-cZe.text" = "地址";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "ylr-km-ZJz"; */
+"ylr-km-ZJz.text" = "明细";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "zcQ-N6-K8d"; */
+"zcQ-N6-K8d.title" = "地图";
+
+/* Class = "UILabel"; text = "Address goes here"; ObjectID = "zeO-RF-vV0"; */
+"zeO-RF-vV0.text" = "显示地址";
+
+/* Class = "UITableViewSection"; headerTitle = "About MomentsLocation App"; ObjectID = "zgr-dJ-Fvl"; */
+"zgr-dJ-Fvl.headerTitle" = "关于程序";
